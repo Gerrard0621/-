@@ -1,0 +1,4 @@
+ChatFrame에 접속하고자하는 ip입력 (주인은 localhost)
+ChatClient는 localhost고정  
+
+주인 먼저 실행하고 -> 접속자 입장 
