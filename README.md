@@ -23,3 +23,6 @@
 * TCP/IP
 * Java socket
 * JSON
+  
+## :link: 최종 자료 PDF 
+[3chat.pdf](https://github.com/user-attachments/files/16046484/3chat.pdf)
